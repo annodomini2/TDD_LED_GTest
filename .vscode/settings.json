@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "led.h": "c",
+        "leddriver.h": "c",
+        "compare": "cpp"
+    }
+}
